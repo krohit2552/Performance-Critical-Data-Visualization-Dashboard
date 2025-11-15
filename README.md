@@ -1,11 +1,9 @@
 # Performance-Critical Data Visualization Dashboard
 
 A high-performance real-time dashboard built with Next.js 14+ App Router and TypeScript, capable of smoothly rendering and updating 10,000+ data points at 60fps.
+<img width="1296" height="792" alt="image" src="https://github.com/user-attachments/assets/ddf672e9-f90e-4d7c-ae51-1725c8060735" />
 
 ## 🚀 Features
-![Uploading image.png…]()
-
-
 
 - **Multiple Chart Types**: Line chart, bar chart, scatter plot, heatmap
 - **Real-time Updates**: New data arrives every 100ms
