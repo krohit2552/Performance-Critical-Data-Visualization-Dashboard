@@ -6,6 +6,7 @@ A high-performance real-time dashboard built with Next.js 14+ App Router and Typ
 ![Uploading image.png…]()
 
 
+
 - **Multiple Chart Types**: Line chart, bar chart, scatter plot, heatmap
 - **Real-time Updates**: New data arrives every 100ms
 - **Interactive Controls**: Time range selection, pause/resume streaming
