@@ -3,6 +3,8 @@
 A high-performance real-time dashboard built with Next.js 14+ App Router and TypeScript, capable of smoothly rendering and updating 10,000+ data points at 60fps.
 
 ## 🚀 Features
+![Uploading image.png…]()
+
 
 - **Multiple Chart Types**: Line chart, bar chart, scatter plot, heatmap
 - **Real-time Updates**: New data arrives every 100ms
@@ -147,6 +149,11 @@ To test performance:
 ## 🤝 Contributing
 
 Contributions welcome! Please follow the existing code structure and ensure all performance targets are met.
+
+contact if you want know regarding project:
+Name: Rohit Kumar
+gmail: krohitb2552@gmail.com
+mob: 8651712231
 
 ## 📄 License
 
